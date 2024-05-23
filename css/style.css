@@ -1,0 +1,21 @@
+body {
+    padding: 0%;
+    margin: 0%;
+    color: white;
+    font-family: Arial, sans-serif;
+}
+
+#head{
+    background-image: url(../imagem/capa.jpeg);
+    background-repeat: no-repeat;
+    background-size:cover;
+    height: 60vh;
+}
+
+img{
+    margin: 0%;
+}
+
+#carouselExampleSlidesOnly{
+    font-size: 40px;
+}
